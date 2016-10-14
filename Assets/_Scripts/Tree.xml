@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree>
+	<conversation>
+		<text> Hi! this is a test text </text>
+		<text> Here come the responses </text>
+    <text> Here come the memes </text>
+			<response>answer 1</response>
+			<response>answer 2</response>
+      <response>answer 3</response>
+	</conversation>
+</tree>
